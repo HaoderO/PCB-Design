@@ -1,0 +1,401 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'sys_clk'
+Slack : -15.330
+TNS   : -15.372
+
+Type  : Slow 1200mV 85C Model Setup 'u_pll_clk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -6.379
+TNS   : -245.458
+
+Type  : Slow 1200mV 85C Model Setup 'ov5640_top:u_ov5640_top|sccb:u_sccb|sccb_dri_clk'
+Slack : -5.760
+TNS   : -178.784
+
+Type  : Slow 1200mV 85C Model Setup 'cmos_pclk'
+Slack : -4.336
+TNS   : -229.198
+
+Type  : Slow 1200mV 85C Model Setup 'u_pll_clk|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -3.892
+TNS   : -7.350
+
+Type  : Slow 1200mV 85C Model Setup 'SEG_driver:u_SEG_driver|clk_1k'
+Slack : -1.125
+TNS   : -3.513
+
+Type  : Slow 1200mV 85C Model Setup 'u_pll_clk|altpll_component|auto_generated|pll1|clk[3]'
+Slack : 5.983
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ov5640_top:u_ov5640_top|sccb:u_sccb|sccb_dri_clk'
+Slack : -1.560
+TNS   : -3.119
+
+Type  : Slow 1200mV 85C Model Hold 'cmos_pclk'
+Slack : -1.084
+TNS   : -1.674
+
+Type  : Slow 1200mV 85C Model Hold 'u_pll_clk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -0.220
+TNS   : -0.220
+
+Type  : Slow 1200mV 85C Model Hold 'sys_clk'
+Slack : -0.067
+TNS   : -0.067
+
+Type  : Slow 1200mV 85C Model Hold 'u_pll_clk|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 0.408
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'u_pll_clk|altpll_component|auto_generated|pll1|clk[3]'
+Slack : 0.446
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'SEG_driver:u_SEG_driver|clk_1k'
+Slack : 0.742
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'u_pll_clk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -5.478
+TNS   : -279.710
+
+Type  : Slow 1200mV 85C Model Recovery 'cmos_pclk'
+Slack : -2.564
+TNS   : -106.130
+
+Type  : Slow 1200mV 85C Model Recovery 'ov5640_top:u_ov5640_top|sccb:u_sccb|sccb_dri_clk'
+Slack : -0.996
+TNS   : -53.320
+
+Type  : Slow 1200mV 85C Model Recovery 'SEG_driver:u_SEG_driver|clk_1k'
+Slack : -0.579
+TNS   : -4.632
+
+Type  : Slow 1200mV 85C Model Recovery 'u_pll_clk|altpll_component|auto_generated|pll1|clk[3]'
+Slack : 6.155
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'sys_clk'
+Slack : 8.367
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'SEG_driver:u_SEG_driver|clk_1k'
+Slack : 0.182
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'sys_clk'
+Slack : 0.251
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'cmos_pclk'
+Slack : 0.291
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'ov5640_top:u_ov5640_top|sccb:u_sccb|sccb_dri_clk'
+Slack : 0.573
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'u_pll_clk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 2.703
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'u_pll_clk|altpll_component|auto_generated|pll1|clk[3]'
+Slack : 2.738
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'cmos_pclk'
+Slack : -3.201
+TNS   : -151.575
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ov5640_top:u_ov5640_top|sccb:u_sccb|sccb_dri_clk'
+Slack : -3.201
+TNS   : -83.499
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'SEG_driver:u_SEG_driver|clk_1k'
+Slack : -1.487
+TNS   : -11.896
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'u_pll_clk|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 4.697
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'sys_clk'
+Slack : 9.783
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'u_pll_clk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 20.523
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'u_pll_clk|altpll_component|auto_generated|pll1|clk[3]'
+Slack : 49.715
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'sys_clk'
+Slack : -14.068
+TNS   : -14.087
+
+Type  : Slow 1200mV 0C Model Setup 'u_pll_clk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -5.900
+TNS   : -225.434
+
+Type  : Slow 1200mV 0C Model Setup 'ov5640_top:u_ov5640_top|sccb:u_sccb|sccb_dri_clk'
+Slack : -5.233
+TNS   : -162.834
+
+Type  : Slow 1200mV 0C Model Setup 'cmos_pclk'
+Slack : -3.909
+TNS   : -207.173
+
+Type  : Slow 1200mV 0C Model Setup 'u_pll_clk|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -3.417
+TNS   : -6.521
+
+Type  : Slow 1200mV 0C Model Setup 'SEG_driver:u_SEG_driver|clk_1k'
+Slack : -0.932
+TNS   : -2.578
+
+Type  : Slow 1200mV 0C Model Setup 'u_pll_clk|altpll_component|auto_generated|pll1|clk[3]'
+Slack : 6.182
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ov5640_top:u_ov5640_top|sccb:u_sccb|sccb_dri_clk'
+Slack : -1.282
+TNS   : -2.564
+
+Type  : Slow 1200mV 0C Model Hold 'cmos_pclk'
+Slack : -1.012
+TNS   : -1.589
+
+Type  : Slow 1200mV 0C Model Hold 'u_pll_clk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -0.338
+TNS   : -0.338
+
+Type  : Slow 1200mV 0C Model Hold 'sys_clk'
+Slack : -0.039
+TNS   : -0.039
+
+Type  : Slow 1200mV 0C Model Hold 'u_pll_clk|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 0.384
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'u_pll_clk|altpll_component|auto_generated|pll1|clk[3]'
+Slack : 0.400
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'SEG_driver:u_SEG_driver|clk_1k'
+Slack : 0.693
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'u_pll_clk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -4.868
+TNS   : -243.202
+
+Type  : Slow 1200mV 0C Model Recovery 'cmos_pclk'
+Slack : -2.194
+TNS   : -89.767
+
+Type  : Slow 1200mV 0C Model Recovery 'ov5640_top:u_ov5640_top|sccb:u_sccb|sccb_dri_clk'
+Slack : -0.988
+TNS   : -52.871
+
+Type  : Slow 1200mV 0C Model Recovery 'SEG_driver:u_SEG_driver|clk_1k'
+Slack : -0.516
+TNS   : -4.128
+
+Type  : Slow 1200mV 0C Model Recovery 'u_pll_clk|altpll_component|auto_generated|pll1|clk[3]'
+Slack : 6.532
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'sys_clk'
+Slack : 8.443
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'cmos_pclk'
+Slack : 0.238
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'SEG_driver:u_SEG_driver|clk_1k'
+Slack : 0.256
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'sys_clk'
+Slack : 0.315
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'ov5640_top:u_ov5640_top|sccb:u_sccb|sccb_dri_clk'
+Slack : 0.710
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'u_pll_clk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 2.424
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'u_pll_clk|altpll_component|auto_generated|pll1|clk[3]'
+Slack : 2.481
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'cmos_pclk'
+Slack : -3.201
+TNS   : -151.771
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ov5640_top:u_ov5640_top|sccb:u_sccb|sccb_dri_clk'
+Slack : -3.201
+TNS   : -83.499
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'SEG_driver:u_SEG_driver|clk_1k'
+Slack : -1.487
+TNS   : -11.896
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'u_pll_clk|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 4.675
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'sys_clk'
+Slack : 9.774
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'u_pll_clk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 20.498
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'u_pll_clk|altpll_component|auto_generated|pll1|clk[3]'
+Slack : 49.715
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'sys_clk'
+Slack : -5.340
+TNS   : -5.340
+
+Type  : Fast 1200mV 0C Model Setup 'u_pll_clk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -2.958
+TNS   : -112.760
+
+Type  : Fast 1200mV 0C Model Setup 'ov5640_top:u_ov5640_top|sccb:u_sccb|sccb_dri_clk'
+Slack : -1.627
+TNS   : -42.041
+
+Type  : Fast 1200mV 0C Model Setup 'cmos_pclk'
+Slack : -1.272
+TNS   : -51.033
+
+Type  : Fast 1200mV 0C Model Setup 'u_pll_clk|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -1.247
+TNS   : -2.325
+
+Type  : Fast 1200mV 0C Model Setup 'SEG_driver:u_SEG_driver|clk_1k'
+Slack : 0.093
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'u_pll_clk|altpll_component|auto_generated|pll1|clk[3]'
+Slack : 8.251
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ov5640_top:u_ov5640_top|sccb:u_sccb|sccb_dri_clk'
+Slack : -0.980
+TNS   : -1.960
+
+Type  : Fast 1200mV 0C Model Hold 'cmos_pclk'
+Slack : -0.630
+TNS   : -1.073
+
+Type  : Fast 1200mV 0C Model Hold 'sys_clk'
+Slack : -0.191
+TNS   : -0.191
+
+Type  : Fast 1200mV 0C Model Hold 'u_pll_clk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -0.049
+TNS   : -0.049
+
+Type  : Fast 1200mV 0C Model Hold 'u_pll_clk|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 0.140
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'u_pll_clk|altpll_component|auto_generated|pll1|clk[3]'
+Slack : 0.158
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'SEG_driver:u_SEG_driver|clk_1k'
+Slack : 0.290
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'u_pll_clk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -2.641
+TNS   : -104.966
+
+Type  : Fast 1200mV 0C Model Recovery 'cmos_pclk'
+Slack : -0.963
+TNS   : -39.441
+
+Type  : Fast 1200mV 0C Model Recovery 'ov5640_top:u_ov5640_top|sccb:u_sccb|sccb_dri_clk'
+Slack : -0.044
+TNS   : -2.123
+
+Type  : Fast 1200mV 0C Model Recovery 'SEG_driver:u_SEG_driver|clk_1k'
+Slack : 0.340
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'u_pll_clk|altpll_component|auto_generated|pll1|clk[3]'
+Slack : 8.269
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'sys_clk'
+Slack : 9.342
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'SEG_driver:u_SEG_driver|clk_1k'
+Slack : -0.048
+TNS   : -0.384
+
+Type  : Fast 1200mV 0C Model Removal 'sys_clk'
+Slack : -0.046
+TNS   : -0.987
+
+Type  : Fast 1200mV 0C Model Removal 'cmos_pclk'
+Slack : -0.024
+TNS   : -0.168
+
+Type  : Fast 1200mV 0C Model Removal 'ov5640_top:u_ov5640_top|sccb:u_sccb|sccb_dri_clk'
+Slack : 0.320
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'u_pll_clk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 1.176
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'u_pll_clk|altpll_component|auto_generated|pll1|clk[3]'
+Slack : 1.229
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'cmos_pclk'
+Slack : -3.000
+TNS   : -109.138
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ov5640_top:u_ov5640_top|sccb:u_sccb|sccb_dri_clk'
+Slack : -1.000
+TNS   : -55.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'SEG_driver:u_SEG_driver|clk_1k'
+Slack : -1.000
+TNS   : -8.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'u_pll_clk|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 4.733
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'sys_clk'
+Slack : 9.434
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'u_pll_clk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 20.602
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'u_pll_clk|altpll_component|auto_generated|pll1|clk[3]'
+Slack : 49.733
+TNS   : 0.000
+
+------------------------------------------------------------

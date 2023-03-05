@@ -1,0 +1,9 @@
+
+State Machine - |top|ov5640_top:u_ov5640_top|sccb:u_sccb|state_c
+Name state_c.STOP state_c.DATA state_c.ADDR_8 state_c.ADDR_16 state_c.DEVICE state_c.IDLE 
+state_c.IDLE 0 0 0 0 0 0 
+state_c.DEVICE 0 0 0 0 1 1 
+state_c.ADDR_16 0 0 0 1 0 1 
+state_c.ADDR_8 0 0 1 0 0 1 
+state_c.DATA 0 1 0 0 0 1 
+state_c.STOP 1 0 0 0 0 1 
